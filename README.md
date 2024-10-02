@@ -17,7 +17,3 @@ I'm a dedicated software developer with more than two years of hands-on experien
 ## 🌍 Let's Connect
 
 Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/luka-vukanovic-865382280/) or [Twitter](https://x.com/vukan322) to discuss tech, collaboration opportunities, or just to say hi!
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
