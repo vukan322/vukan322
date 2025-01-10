@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a dedicated software developer with more than two years of hands-on experience, driven by a passion for crafting efficient and maintainable solutions. Throughout my journey, I've thrived in various projects, with a particular focus on backend development where I've specialized in building resilient servers and essential middlewares. While I possess the skills to create intuitive user interfaces using technologies like React, my true enthusiasm lies in backend development. I find fulfillment in architecting robust systems and optimizing performance, ensuring seamless functionality behind the scenes. Currently, I'm exploring artificial intelligence applications and deepening my knowledge of Go. In the future, I plan to learn Rust, and I'm currently enhancing my productivity by learning NeoVim.
+I'm a dedicated software developer with more than two years of hands-on experience, driven by a passion for crafting efficient and maintainable solutions. Throughout my journey, I've thrived in various projects, with a particular focus on backend development where I've specialized in building resilient servers and essential middlewares. While I possess the skills to create intuitive user interfaces using technologies like React, my true enthusiasm lies in backend development. I find fulfillment in architecting robust systems and optimizing performance, ensuring seamless functionality behind the scenes.
 
 ## 🛠️ Technologies & Tools
 
