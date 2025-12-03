@@ -89,11 +89,11 @@
     <rect x="24" y="264" width="0" height="8" rx="1" fill="#238636" />
     <rect x="24" y="264" width="748" height="8" rx="1" fill="#da3633" />
     <text class="stat-label" x="24" y="298">
-      Pull requests ( 0 open · 40 merged · 1 closed )
+      Pull requests ( 1 open · 40 merged · 1 closed )
     </text>
-    <rect x="24" y="306" width="0" height="8" rx="1" fill="#238636" />
-    <rect x="24" y="306" width="729.7560975609756" height="8" rx="1" fill="#8957e5" />
-    <rect x="753.7560975609756" y="306" width="18.243902439024392" height="8" rx="1" fill="#da3633" />
+    <rect x="24" y="306" width="17.80952380952381" height="8" rx="1" fill="#238636" />
+    <rect x="41.80952380952381" y="306" width="712.3809523809523" height="8" rx="1" fill="#8957e5" />
+    <rect x="754.1904761904761" y="306" width="17.80952380952381" height="8" rx="1" fill="#da3633" />
 
   <text class="footer"
       x="400"
