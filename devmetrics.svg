@@ -84,16 +84,16 @@
 
   <text class="subtitle" x="24" y="230" style="fill: #e6edf3;">Issues &amp; pull requests</text>
     <text class="stat-label" x="24" y="256">
-      Issues ( 0 open · 2 closed )
+      Issues ( 8 open · 5 closed )
     </text>
-    <rect x="24" y="264" width="0" height="8" rx="1" fill="#238636" />
-    <rect x="24" y="264" width="748" height="8" rx="1" fill="#da3633" />
+    <rect x="24" y="264" width="460.3076923076923" height="8" rx="1" fill="#238636" />
+    <rect x="484.3076923076923" y="264" width="287.69230769230774" height="8" rx="1" fill="#da3633" />
     <text class="stat-label" x="24" y="298">
-      Pull requests ( 1 open · 40 merged · 1 closed )
+      Pull requests ( 1 open · 186 merged · 6 closed )
     </text>
-    <rect x="24" y="306" width="17.80952380952381" height="8" rx="1" fill="#238636" />
-    <rect x="41.80952380952381" y="306" width="712.3809523809523" height="8" rx="1" fill="#8957e5" />
-    <rect x="754.1904761904761" y="306" width="17.80952380952381" height="8" rx="1" fill="#da3633" />
+    <rect x="24" y="306" width="3.8756476683937824" height="8" rx="1" fill="#238636" />
+    <rect x="27.875647668393782" y="306" width="720.8704663212435" height="8" rx="1" fill="#8957e5" />
+    <rect x="748.7461139896373" y="306" width="23.253886010362695" height="8" rx="1" fill="#da3633" />
 
   <text class="footer"
       x="400"
