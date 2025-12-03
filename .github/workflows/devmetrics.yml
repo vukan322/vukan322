@@ -46,5 +46,6 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
+          git pull --rebase --autostash
           git commit -m "chore: update devmetrics card"
           git push
