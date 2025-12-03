@@ -16,6 +16,13 @@ jobs:
       - name: Checkout profile repo
         uses: actions/checkout@v4
 
+      - name: Checkout devmetrics repo
+        uses: actions/checkout@v4
+        with:
+          repository: vukan322/devmetrics
+          ref: main
+          path: devmetrics-src
+
       - name: Set up Go
         uses: actions/setup-go@v5
         with:
@@ -25,7 +32,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          go run github.com/vukan322/devmetrics/cmd/devmetrics@latest -user vukan322 -out devmetrics.svg
+          cd devmetrics-src
+          go run ./cmd/devmetrics -user vukan322 -out ../devmetrics.svg
 
       - name: Commit and push updated card
         env:
