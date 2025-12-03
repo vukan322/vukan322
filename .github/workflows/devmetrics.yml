@@ -30,7 +30,7 @@ jobs:
 
       - name: Generate DevMetrics SVG
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.DEV_METRICS_TOKEN }}
         run: |
           cd devmetrics-src
           go run ./cmd/devmetrics -user vukan322 -out ../devmetrics.svg
