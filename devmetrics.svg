@@ -67,19 +67,19 @@
 
   <text class="subtitle" x="24" y="158" style="fill: #e6edf3;">Most used languages</text>
       <rect x="24" y="176" width="498.6666666666666" height="8" fill="#00ADD8" rx="1" />
-      <rect x="522.6666666666665" y="176" width="124.66666666666664" height="8" fill="#e34c26" rx="1" />
-      <rect x="647.3333333333331" y="176" width="124.66666666666664" height="8" fill="#000080" rx="1" />
+      <rect x="522.6666666666665" y="176" width="124.66666666666664" height="8" fill="#000080" rx="1" />
+      <rect x="647.3333333333331" y="176" width="124.66666666666664" height="8" fill="#e34c26" rx="1" />
       <circle class="lang-dot" cx="40" cy="201" fill="#00ADD8" />
       <text class="lang-label" x="50" y="204">
         Go 67%
       </text>
-      <circle class="lang-dot" cx="200" cy="201" fill="#e34c26" />
+      <circle class="lang-dot" cx="200" cy="201" fill="#000080" />
       <text class="lang-label" x="210" y="204">
-        HTML 17%
-      </text>
-      <circle class="lang-dot" cx="360" cy="201" fill="#000080" />
-      <text class="lang-label" x="370" y="204">
         Lua 17%
+      </text>
+      <circle class="lang-dot" cx="360" cy="201" fill="#e34c26" />
+      <text class="lang-label" x="370" y="204">
+        HTML 17%
       </text>
 
   <text class="subtitle" x="24" y="230" style="fill: #e6edf3;">Issues &amp; pull requests</text>
