@@ -41,59 +41,86 @@
   <text class="title" x="80" y="40">Luka Vukanović</text>
   <text class="subtitle" x="80" y="62">github: vukan322</text>
 
-  <rect class="stat-card" x="24" y="88" width="108" height="44" />
-  <text class="stat-label" x="78" y="104" text-anchor="middle">Repos</text>
-  <text class="stat-value" x="78" y="122" text-anchor="middle">7</text>
+  <rect class="stat-card" x="24" y="88" width="140" height="44" />
+  <text class="stat-label" x="94" y="104" text-anchor="middle">Repos</text>
+  <text class="stat-value" x="94" y="122" text-anchor="middle">
+    7 pub · 18 priv
+  </text>
 
-  <rect class="stat-card" x="152" y="88" width="108" height="44" />
-  <text class="stat-label" x="206" y="104" text-anchor="middle">Stars</text>
-  <text class="stat-value" x="206" y="122" text-anchor="middle">38</text>
+  <rect class="stat-card" x="179" y="88" width="108" height="44" />
+  <text class="stat-label" x="233" y="104" text-anchor="middle">Stars</text>
+  <text class="stat-value" x="233" y="122" text-anchor="middle">38</text>
 
-  <rect class="stat-card" x="280" y="88" width="108" height="44" />
-  <text class="stat-label" x="334" y="104" text-anchor="middle">Followers</text>
-  <text class="stat-value" x="334" y="122" text-anchor="middle">10</text>
+  <rect class="stat-card" x="302" y="88" width="108" height="44" />
+  <text class="stat-label" x="356" y="104" text-anchor="middle">Followers</text>
+  <text class="stat-value" x="356" y="122" text-anchor="middle">10</text>
 
-  <rect class="stat-card" x="408" y="88" width="108" height="44" />
-  <text class="stat-label" x="462" y="104" text-anchor="middle">Contributed</text>
-  <text class="stat-value" x="462" y="122" text-anchor="middle">1</text>
+  <rect class="stat-card" x="425" y="88" width="108" height="44" />
+  <text class="stat-label" x="479" y="104" text-anchor="middle">Contributed</text>
+  <text class="stat-value" x="479" y="122" text-anchor="middle">1</text>
 
-  <rect class="stat-card" x="536" y="88" width="108" height="44" />
-  <text class="stat-label" x="590" y="104" text-anchor="middle">Joined</text>
-  <text class="stat-value" x="590" y="122" text-anchor="middle">3 years ago</text>
+  <rect class="stat-card" x="548" y="88" width="108" height="44" />
+  <text class="stat-label" x="602" y="104" text-anchor="middle">Joined</text>
+  <text class="stat-value" x="602" y="122" text-anchor="middle">3 years ago</text>
 
-  <rect class="stat-card" x="664" y="88" width="108" height="44" />
-  <text class="stat-label" x="718" y="104" text-anchor="middle">Languages</text>
-  <text class="stat-value" x="718" y="122" text-anchor="middle">3</text>
+  <rect class="stat-card" x="671" y="88" width="108" height="44" />
+  <text class="stat-label" x="725" y="104" text-anchor="middle">Languages</text>
+  <text class="stat-value" x="725" y="122" text-anchor="middle">8</text>
 
   <text class="subtitle" x="24" y="158" style="fill: #e6edf3;">Most used languages</text>
-      <rect x="24" y="176" width="498.6666666666666" height="8" fill="#00ADD8" rx="1" />
-      <rect x="522.6666666666665" y="176" width="124.66666666666664" height="8" fill="#e34c26" rx="1" />
-      <rect x="647.3333333333331" y="176" width="124.66666666666664" height="8" fill="#000080" rx="1" />
+      <rect x="24" y="176" width="260.17391304347825" height="8" fill="#00ADD8" rx="1" />
+      <rect x="284.17391304347825" y="176" width="195.1304347826087" height="8" fill="#3178c6" rx="1" />
+      <rect x="479.30434782608694" y="176" width="97.56521739130434" height="8" fill="#e34c26" rx="1" />
+      <rect x="576.8695652173913" y="176" width="65.04347826086956" height="8" fill="#f1e05a" rx="1" />
+      <rect x="641.9130434782608" y="176" width="32.52173913043478" height="8" fill="#000080" rx="1" />
+      <rect x="674.4347826086955" y="176" width="32.52173913043478" height="8" fill="#178600" rx="1" />
+      <rect x="706.9565217391303" y="176" width="32.52173913043478" height="8" fill="#b07219" rx="1" />
+      <rect x="739.478260869565" y="176" width="32.52173913043478" height="8" fill="#555555" rx="1" />
       <circle class="lang-dot" cx="40" cy="201" fill="#00ADD8" />
       <text class="lang-label" x="50" y="204">
-        Go 67%
+        Go 35%
       </text>
-      <circle class="lang-dot" cx="200" cy="201" fill="#e34c26" />
+      <circle class="lang-dot" cx="200" cy="201" fill="#3178c6" />
       <text class="lang-label" x="210" y="204">
-        HTML 17%
+        TypeScript 26%
       </text>
-      <circle class="lang-dot" cx="360" cy="201" fill="#000080" />
+      <circle class="lang-dot" cx="360" cy="201" fill="#e34c26" />
       <text class="lang-label" x="370" y="204">
-        Lua 17%
+        HTML 13%
+      </text>
+      <circle class="lang-dot" cx="520" cy="201" fill="#f1e05a" />
+      <text class="lang-label" x="530" y="204">
+        JavaScript 9%
+      </text>
+      <circle class="lang-dot" cx="680" cy="201" fill="#000080" />
+      <text class="lang-label" x="690" y="204">
+        Lua 4%
+      </text>
+      <circle class="lang-dot" cx="40" cy="221" fill="#178600" />
+      <text class="lang-label" x="50" y="224">
+        C# 4%
+      </text>
+      <circle class="lang-dot" cx="200" cy="221" fill="#b07219" />
+      <text class="lang-label" x="210" y="224">
+        Java 4%
+      </text>
+      <circle class="lang-dot" cx="360" cy="221" fill="#555555" />
+      <text class="lang-label" x="370" y="224">
+        C 4%
       </text>
 
-  <text class="subtitle" x="24" y="230" style="fill: #e6edf3;">Issues &amp; pull requests</text>
-    <text class="stat-label" x="24" y="256">
+  <text class="subtitle" x="24" y="250" style="fill: #e6edf3;">Issues &amp; pull requests</text>
+    <text class="stat-label" x="24" y="276">
       Issues ( 8 open · 5 closed )
     </text>
-    <rect x="24" y="264" width="460.3076923076923" height="8" rx="1" fill="#238636" />
-    <rect x="484.3076923076923" y="264" width="287.69230769230774" height="8" rx="1" fill="#da3633" />
-    <text class="stat-label" x="24" y="298">
+    <rect x="24" y="284" width="460.3076923076923" height="8" rx="1" fill="#238636" />
+    <rect x="484.3076923076923" y="284" width="287.69230769230774" height="8" rx="1" fill="#da3633" />
+    <text class="stat-label" x="24" y="318">
       Pull requests ( 1 open · 186 merged · 6 closed )
     </text>
-    <rect x="24" y="306" width="3.8756476683937824" height="8" rx="1" fill="#238636" />
-    <rect x="27.875647668393782" y="306" width="720.8704663212435" height="8" rx="1" fill="#8957e5" />
-    <rect x="748.7461139896373" y="306" width="23.253886010362695" height="8" rx="1" fill="#da3633" />
+    <rect x="24" y="326" width="3.8756476683937824" height="8" rx="1" fill="#238636" />
+    <rect x="27.875647668393782" y="326" width="720.8704663212435" height="8" rx="1" fill="#8957e5" />
+    <rect x="748.7461139896373" y="326" width="23.253886010362695" height="8" rx="1" fill="#da3633" />
 
   <text class="footer"
       x="400"
