@@ -35,6 +35,8 @@ jobs:
           DEV_METRICS_BITBUCKET_TOKEN: ${{ secrets.BITBUCKET_TOKEN }}
           DEV_METRICS_BITBUCKET_WORKSPACE: ${{ secrets.BITBUCKET_WORKSPACE }}
           DEV_METRICS_BITBUCKET_USER: ${{ secrets.BITBUCKET_USER }}
+          DEV_METRICS_GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
+          DEV_METRICS_GITLAB_USER: ${{ secrets.GITLAB_USER }}
         run: |
           cd devmetrics-src
           DEV_METRICS_TOKEN="${DEV_METRICS_TOKEN}" go run ./cmd/devmetrics -user vukan322 -out ../devmetrics.svg
