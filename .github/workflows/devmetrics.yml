@@ -51,5 +51,6 @@ jobs:
             exit 0
           fi
           git pull --rebase --autostash
+          git add devmetrics.svg
           git commit -m "chore: update devmetrics card"
           git push
