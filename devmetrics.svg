@@ -88,8 +88,8 @@
   <tspan class="stat-label"> commits this week</tspan>
 </text>
       <rect x="24" y="176" width="260.17391304347836" height="8" fill="#00ADD8" rx="1" />
-      <rect x="284.17391304347836" y="176" width="195.13043478260877" height="8" fill="#3178c6" rx="1" />
-      <rect x="479.3043478260871" y="176" width="97.56521739130439" height="8" fill="#e34c26" rx="1" />
+      <rect x="284.17391304347836" y="176" width="195.13043478260875" height="8" fill="#3178c6" rx="1" />
+      <rect x="479.3043478260871" y="176" width="97.56521739130437" height="8" fill="#e34c26" rx="1" />
       <rect x="576.8695652173915" y="176" width="65.04347826086959" height="8" fill="#f1e05a" rx="1" />
       <rect x="641.9130434782611" y="176" width="32.521739130434796" height="8" fill="#000080" rx="1" />
       <rect x="674.4347826086959" y="176" width="32.521739130434796" height="8" fill="#178600" rx="1" />
