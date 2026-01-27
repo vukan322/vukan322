@@ -80,7 +80,7 @@
   </text>
 
   <text class="stat-label" x="648" y="77" text-anchor="start">
-    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">46</tspan>
+    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">34</tspan>
     <tspan class="stat-label"> commits this week</tspan>
   </text>
       <rect x="24" y="192" width="260.1739130434783" height="8" fill="#00ADD8" rx="1" />
