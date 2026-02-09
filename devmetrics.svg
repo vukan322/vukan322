@@ -44,7 +44,7 @@
   <rect class="stat-card" x="24"  y="96" width="140" height="44" />
   <text class="stat-label" x="94" y="112" text-anchor="middle">Repos</text>
   <text class="stat-value" x="94" y="130" text-anchor="middle">
-    7 pub · 5 priv
+    7 pub · 23 priv
   </text>
 
   <rect class="stat-card" x="179" y="96" width="108" height="44" />
@@ -65,7 +65,7 @@
 
   <rect class="stat-card" x="671" y="96" width="108" height="44" />
   <text class="stat-label" x="725" y="112" text-anchor="middle">Languages</text>
-  <text class="stat-value" x="725" y="130" text-anchor="middle">3</text>
+  <text class="stat-value" x="725" y="130" text-anchor="middle">8</text>
 
   <text class="subtitle" x="24" y="174" style="fill: #e6edf3;">Most used languages</text>
 
@@ -83,23 +83,59 @@
     <tspan class="stat-value" style="font-size: 13px; font-weight:600;">0</tspan>
     <tspan class="stat-label"> commits this week</tspan>
   </text>
-      <rect x="24" y="192" width="498.6666666666666" height="8" fill="#00ADD8" rx="1" />
-      <rect x="522.6666666666665" y="192" width="124.66666666666664" height="8" fill="#000080" rx="1" />
-      <rect x="647.3333333333331" y="192" width="124.66666666666664" height="8" fill="#e34c26" rx="1" />
+      <rect x="24" y="192" width="260.1739130434782" height="8" fill="#00ADD8" rx="1" />
+      <rect x="284.1739130434782" y="192" width="195.1304347826087" height="8" fill="#3178c6" rx="1" />
+      <rect x="479.3043478260869" y="192" width="97.56521739130434" height="8" fill="#e34c26" rx="1" />
+      <rect x="576.8695652173913" y="192" width="65.04347826086955" height="8" fill="#f1e05a" rx="1" />
+      <rect x="641.9130434782608" y="192" width="32.521739130434774" height="8" fill="#b07219" rx="1" />
+      <rect x="674.4347826086955" y="192" width="32.521739130434774" height="8" fill="#555555" rx="1" />
+      <rect x="706.9565217391303" y="192" width="32.521739130434774" height="8" fill="#000080" rx="1" />
+      <rect x="739.478260869565" y="192" width="32.521739130434774" height="8" fill="#178600" rx="1" />
       <circle class="lang-dot" cx="40" cy="217" fill="#00ADD8" />
       <text class="lang-label" x="50" y="220">
-        Go 67%
+        Go 35%
       </text>
-      <circle class="lang-dot" cx="200" cy="217" fill="#000080" />
+      <circle class="lang-dot" cx="200" cy="217" fill="#3178c6" />
       <text class="lang-label" x="210" y="220">
-        Lua 17%
+        TypeScript 26%
       </text>
       <circle class="lang-dot" cx="360" cy="217" fill="#e34c26" />
       <text class="lang-label" x="370" y="220">
-        HTML 17%
+        HTML 13%
+      </text>
+      <circle class="lang-dot" cx="520" cy="217" fill="#f1e05a" />
+      <text class="lang-label" x="530" y="220">
+        JavaScript 9%
+      </text>
+      <circle class="lang-dot" cx="680" cy="217" fill="#b07219" />
+      <text class="lang-label" x="690" y="220">
+        Java 4%
+      </text>
+      <circle class="lang-dot" cx="40" cy="237" fill="#555555" />
+      <text class="lang-label" x="50" y="240">
+        C 4%
+      </text>
+      <circle class="lang-dot" cx="200" cy="237" fill="#000080" />
+      <text class="lang-label" x="210" y="240">
+        Lua 4%
+      </text>
+      <circle class="lang-dot" cx="360" cy="237" fill="#178600" />
+      <text class="lang-label" x="370" y="240">
+        C# 4%
       </text>
 
-  <text class="subtitle" x="24" y="246" style="fill: #e6edf3;">Issues &amp; pull requests</text>
+  <text class="subtitle" x="24" y="266" style="fill: #e6edf3;">Issues &amp; pull requests</text>
+    <text class="stat-label" x="24" y="292">
+      Issues ( 12 open · 7 closed )
+    </text>
+    <rect x="24" y="300" width="472.4210526315789" height="8" rx="1" fill="#238636" />
+    <rect x="496.4210526315789" y="300" width="275.57894736842104" height="8" rx="1" fill="#da3633" />
+    <text class="stat-label" x="24" y="334">
+      Pull requests ( 0 open · 187 merged · 6 closed )
+    </text>
+    <rect x="24" y="342" width="0" height="8" rx="1" fill="#238636" />
+    <rect x="24" y="342" width="724.7461139896373" height="8" rx="1" fill="#8957e5" />
+    <rect x="748.7461139896373" y="342" width="23.253886010362695" height="8" rx="1" fill="#da3633" />
 
   <text class="footer"
       x="400"
