@@ -84,13 +84,13 @@
     <tspan class="stat-label"> commits this week</tspan>
   </text>
       <rect x="24" y="192" width="249.3333333333333" height="8" fill="#00ADD8" rx="1" />
-      <rect x="273.33333333333326" y="192" width="218.16666666666669" height="8" fill="#3178c6" rx="1" />
-      <rect x="491.49999999999994" y="192" width="93.5" height="8" fill="#e34c26" rx="1" />
+      <rect x="273.33333333333326" y="192" width="218.1666666666667" height="8" fill="#3178c6" rx="1" />
+      <rect x="491.5" y="192" width="93.50000000000001" height="8" fill="#e34c26" rx="1" />
       <rect x="585" y="192" width="62.33333333333332" height="8" fill="#f1e05a" rx="1" />
-      <rect x="647.3333333333334" y="192" width="31.16666666666666" height="8" fill="#178600" rx="1" />
-      <rect x="678.5" y="192" width="31.16666666666666" height="8" fill="#b07219" rx="1" />
-      <rect x="709.6666666666666" y="192" width="31.16666666666666" height="8" fill="#555555" rx="1" />
-      <rect x="740.8333333333333" y="192" width="31.16666666666666" height="8" fill="#000080" rx="1" />
+      <rect x="647.3333333333334" y="192" width="31.16666666666666" height="8" fill="#b07219" rx="1" />
+      <rect x="678.5" y="192" width="31.16666666666666" height="8" fill="#555555" rx="1" />
+      <rect x="709.6666666666666" y="192" width="31.16666666666666" height="8" fill="#000080" rx="1" />
+      <rect x="740.8333333333333" y="192" width="31.16666666666666" height="8" fill="#178600" rx="1" />
       <circle class="lang-dot" cx="40" cy="217" fill="#00ADD8" />
       <text class="lang-label" x="50" y="220">
         Go 33%
@@ -101,27 +101,27 @@
       </text>
       <circle class="lang-dot" cx="360" cy="217" fill="#e34c26" />
       <text class="lang-label" x="370" y="220">
-        HTML 12%
+        HTML 13%
       </text>
       <circle class="lang-dot" cx="520" cy="217" fill="#f1e05a" />
       <text class="lang-label" x="530" y="220">
         JavaScript 8%
       </text>
-      <circle class="lang-dot" cx="680" cy="217" fill="#178600" />
+      <circle class="lang-dot" cx="680" cy="217" fill="#b07219" />
       <text class="lang-label" x="690" y="220">
-        C# 4%
-      </text>
-      <circle class="lang-dot" cx="40" cy="237" fill="#b07219" />
-      <text class="lang-label" x="50" y="240">
         Java 4%
       </text>
-      <circle class="lang-dot" cx="200" cy="237" fill="#555555" />
-      <text class="lang-label" x="210" y="240">
+      <circle class="lang-dot" cx="40" cy="237" fill="#555555" />
+      <text class="lang-label" x="50" y="240">
         C 4%
       </text>
-      <circle class="lang-dot" cx="360" cy="237" fill="#000080" />
-      <text class="lang-label" x="370" y="240">
+      <circle class="lang-dot" cx="200" cy="237" fill="#000080" />
+      <text class="lang-label" x="210" y="240">
         Lua 4%
+      </text>
+      <circle class="lang-dot" cx="360" cy="237" fill="#178600" />
+      <text class="lang-label" x="370" y="240">
+        C# 4%
       </text>
 
   <text class="subtitle" x="24" y="266" style="fill: #e6edf3;">Issues &amp; pull requests</text>
