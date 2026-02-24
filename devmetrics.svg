@@ -53,7 +53,7 @@
 
   <rect class="stat-card" x="302" y="96" width="108" height="44" />
   <text class="stat-label" x="356" y="112" text-anchor="middle">Followers</text>
-  <text class="stat-value" x="356" y="130" text-anchor="middle">12</text>
+  <text class="stat-value" x="356" y="130" text-anchor="middle">11</text>
 
   <rect class="stat-card" x="425" y="96" width="108" height="44" />
   <text class="stat-label" x="479" y="112" text-anchor="middle">Contributed</text>
