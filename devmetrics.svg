@@ -91,10 +91,10 @@
       <rect x="293.28" y="192" width="209.44000000000003" height="8" fill="#3178c6" rx="1" />
       <rect x="502.72" y="192" width="89.75999999999999" height="8" fill="#e34c26" rx="1" />
       <rect x="592.48" y="192" width="59.84" height="8" fill="#f1e05a" rx="1" />
-      <rect x="652.32" y="192" width="29.92" height="8" fill="#000080" rx="1" />
-      <rect x="682.24" y="192" width="29.92" height="8" fill="#178600" rx="1" />
-      <rect x="712.16" y="192" width="29.92" height="8" fill="#b07219" rx="1" />
-      <rect x="742.0799999999999" y="192" width="29.92" height="8" fill="#555555" rx="1" />
+      <rect x="652.32" y="192" width="29.92" height="8" fill="#b07219" rx="1" />
+      <rect x="682.24" y="192" width="29.92" height="8" fill="#555555" rx="1" />
+      <rect x="712.16" y="192" width="29.92" height="8" fill="#000080" rx="1" />
+      <rect x="742.0799999999999" y="192" width="29.92" height="8" fill="#178600" rx="1" />
       <circle class="lang-dot" cx="40" cy="217" fill="#00ADD8" />
       <text class="lang-label" x="50" y="220">
         Go 36%
@@ -111,21 +111,21 @@
       <text class="lang-label" x="530" y="220">
         JavaScript 8%
       </text>
-      <circle class="lang-dot" cx="680" cy="217" fill="#000080" />
+      <circle class="lang-dot" cx="680" cy="217" fill="#b07219" />
       <text class="lang-label" x="690" y="220">
-        Lua 4%
-      </text>
-      <circle class="lang-dot" cx="40" cy="237" fill="#178600" />
-      <text class="lang-label" x="50" y="240">
-        C# 4%
-      </text>
-      <circle class="lang-dot" cx="200" cy="237" fill="#b07219" />
-      <text class="lang-label" x="210" y="240">
         Java 4%
       </text>
-      <circle class="lang-dot" cx="360" cy="237" fill="#555555" />
-      <text class="lang-label" x="370" y="240">
+      <circle class="lang-dot" cx="40" cy="237" fill="#555555" />
+      <text class="lang-label" x="50" y="240">
         C 4%
+      </text>
+      <circle class="lang-dot" cx="200" cy="237" fill="#000080" />
+      <text class="lang-label" x="210" y="240">
+        Lua 4%
+      </text>
+      <circle class="lang-dot" cx="360" cy="237" fill="#178600" />
+      <text class="lang-label" x="370" y="240">
+        C# 4%
       </text>
 
   <text class="subtitle" x="24" y="266" style="fill: #e6edf3;">Issues &amp; pull requests</text>
