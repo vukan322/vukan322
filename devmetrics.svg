@@ -87,14 +87,14 @@
     <tspan class="stat-value" style="font-size: 13px; font-weight:600;">67</tspan>
     <tspan class="stat-label"> commits this week</tspan>
   </text>
-      <rect x="24" y="192" width="287.6923076923078" height="8" fill="#00ADD8" rx="1" />
-      <rect x="311.6923076923078" y="192" width="201.38461538461542" height="8" fill="#3178c6" rx="1" />
-      <rect x="513.0769230769232" y="192" width="86.30769230769232" height="8" fill="#e34c26" rx="1" />
-      <rect x="599.3846153846155" y="192" width="57.538461538461554" height="8" fill="#f1e05a" rx="1" />
-      <rect x="656.923076923077" y="192" width="28.769230769230777" height="8" fill="#178600" rx="1" />
-      <rect x="685.6923076923078" y="192" width="28.769230769230777" height="8" fill="#b07219" rx="1" />
-      <rect x="714.4615384615387" y="192" width="28.769230769230777" height="8" fill="#555555" rx="1" />
-      <rect x="743.2307692307695" y="192" width="28.769230769230777" height="8" fill="#000080" rx="1" />
+      <rect x="24" y="192" width="287.69230769230774" height="8" fill="#00ADD8" rx="1" />
+      <rect x="311.69230769230774" y="192" width="201.3846153846154" height="8" fill="#3178c6" rx="1" />
+      <rect x="513.0769230769231" y="192" width="86.3076923076923" height="8" fill="#e34c26" rx="1" />
+      <rect x="599.3846153846154" y="192" width="57.53846153846154" height="8" fill="#f1e05a" rx="1" />
+      <rect x="656.9230769230769" y="192" width="28.76923076923077" height="8" fill="#000080" rx="1" />
+      <rect x="685.6923076923076" y="192" width="28.76923076923077" height="8" fill="#178600" rx="1" />
+      <rect x="714.4615384615383" y="192" width="28.76923076923077" height="8" fill="#b07219" rx="1" />
+      <rect x="743.230769230769" y="192" width="28.76923076923077" height="8" fill="#555555" rx="1" />
       <circle class="lang-dot" cx="40" cy="217" fill="#00ADD8" />
       <text class="lang-label" x="50" y="220">
         Go 38%
@@ -111,21 +111,21 @@
       <text class="lang-label" x="530" y="220">
         JavaScript 8%
       </text>
-      <circle class="lang-dot" cx="680" cy="217" fill="#178600" />
+      <circle class="lang-dot" cx="680" cy="217" fill="#000080" />
       <text class="lang-label" x="690" y="220">
+        Lua 4%
+      </text>
+      <circle class="lang-dot" cx="40" cy="237" fill="#178600" />
+      <text class="lang-label" x="50" y="240">
         C# 4%
       </text>
-      <circle class="lang-dot" cx="40" cy="237" fill="#b07219" />
-      <text class="lang-label" x="50" y="240">
+      <circle class="lang-dot" cx="200" cy="237" fill="#b07219" />
+      <text class="lang-label" x="210" y="240">
         Java 4%
       </text>
-      <circle class="lang-dot" cx="200" cy="237" fill="#555555" />
-      <text class="lang-label" x="210" y="240">
-        C 4%
-      </text>
-      <circle class="lang-dot" cx="360" cy="237" fill="#000080" />
+      <circle class="lang-dot" cx="360" cy="237" fill="#555555" />
       <text class="lang-label" x="370" y="240">
-        Lua 4%
+        C 4%
       </text>
 
   <text class="subtitle" x="24" y="266" style="fill: #e6edf3;">Issues &amp; pull requests</text>
