@@ -39,7 +39,7 @@
   />
 
   <text class="title" x="80" y="40">Luka Vukanović</text>
-  <text class="subtitle" x="80" y="62">github: vukan322 · bitbucket: vukan322 · gitlab: vukan322</text>
+  <text class="subtitle" x="80" y="62">github: vukan322 · bitbucket: vukan322</text>
 
   <rect class="stat-card" x="24"  y="96" width="140" height="44" />
   <text class="stat-label" x="94" y="112" text-anchor="middle">Repos</text>
@@ -89,8 +89,8 @@
   </text>
       <rect x="24" y="192" width="277.03703703703707" height="8" fill="#00ADD8" rx="1" />
       <rect x="301.03703703703707" y="192" width="193.92592592592587" height="8" fill="#3178c6" rx="1" />
-      <rect x="494.96296296296293" y="192" width="83.1111111111111" height="8" fill="#f1e05a" rx="1" />
-      <rect x="578.074074074074" y="192" width="83.1111111111111" height="8" fill="#e34c26" rx="1" />
+      <rect x="494.96296296296293" y="192" width="83.1111111111111" height="8" fill="#e34c26" rx="1" />
+      <rect x="578.074074074074" y="192" width="83.1111111111111" height="8" fill="#f1e05a" rx="1" />
       <rect x="661.1851851851851" y="192" width="27.703703703703695" height="8" fill="#b07219" rx="1" />
       <rect x="688.8888888888888" y="192" width="27.703703703703695" height="8" fill="#555555" rx="1" />
       <rect x="716.5925925925925" y="192" width="27.703703703703695" height="8" fill="#000080" rx="1" />
@@ -103,13 +103,13 @@
       <text class="lang-label" x="210" y="220">
         TypeScript 26%
       </text>
-      <circle class="lang-dot" cx="360" cy="217" fill="#f1e05a" />
+      <circle class="lang-dot" cx="360" cy="217" fill="#e34c26" />
       <text class="lang-label" x="370" y="220">
-        JavaScript 11%
-      </text>
-      <circle class="lang-dot" cx="520" cy="217" fill="#e34c26" />
-      <text class="lang-label" x="530" y="220">
         HTML 11%
+      </text>
+      <circle class="lang-dot" cx="520" cy="217" fill="#f1e05a" />
+      <text class="lang-label" x="530" y="220">
+        JavaScript 11%
       </text>
       <circle class="lang-dot" cx="680" cy="217" fill="#b07219" />
       <text class="lang-label" x="690" y="220">
