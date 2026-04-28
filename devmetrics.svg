@@ -87,14 +87,14 @@
     <tspan class="stat-value" style="font-size: 13px; font-weight:600;">51</tspan>
     <tspan class="stat-label"> commits this week</tspan>
   </text>
-      <rect x="24" y="192" width="277.0370370370371" height="8" fill="#00ADD8" rx="1" />
-      <rect x="301.0370370370371" y="192" width="193.92592592592592" height="8" fill="#3178c6" rx="1" />
-      <rect x="494.96296296296305" y="192" width="83.1111111111111" height="8" fill="#f1e05a" rx="1" />
-      <rect x="578.0740740740741" y="192" width="83.1111111111111" height="8" fill="#e34c26" rx="1" />
-      <rect x="661.1851851851852" y="192" width="27.703703703703702" height="8" fill="#b07219" rx="1" />
-      <rect x="688.8888888888889" y="192" width="27.703703703703702" height="8" fill="#555555" rx="1" />
-      <rect x="716.5925925925926" y="192" width="27.703703703703702" height="8" fill="#000080" rx="1" />
-      <rect x="744.2962962962963" y="192" width="27.703703703703702" height="8" fill="#178600" rx="1" />
+      <rect x="24" y="192" width="277.03703703703707" height="8" fill="#00ADD8" rx="1" />
+      <rect x="301.03703703703707" y="192" width="193.92592592592587" height="8" fill="#3178c6" rx="1" />
+      <rect x="494.96296296296293" y="192" width="83.1111111111111" height="8" fill="#f1e05a" rx="1" />
+      <rect x="578.074074074074" y="192" width="83.1111111111111" height="8" fill="#e34c26" rx="1" />
+      <rect x="661.1851851851851" y="192" width="27.703703703703695" height="8" fill="#b07219" rx="1" />
+      <rect x="688.8888888888888" y="192" width="27.703703703703695" height="8" fill="#555555" rx="1" />
+      <rect x="716.5925925925925" y="192" width="27.703703703703695" height="8" fill="#000080" rx="1" />
+      <rect x="744.2962962962962" y="192" width="27.703703703703695" height="8" fill="#178600" rx="1" />
       <circle class="lang-dot" cx="40" cy="217" fill="#00ADD8" />
       <text class="lang-label" x="50" y="220">
         Go 37%
