@@ -84,24 +84,24 @@
   </text>
 
   <text class="stat-label" x="648" y="77" text-anchor="start">
-    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">47</tspan>
+    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">62</tspan>
     <tspan class="stat-label"> commits this week</tspan>
   </text>
-      <rect x="24" y="192" width="267.14285714285717" height="8" fill="#00ADD8" rx="1" />
-      <rect x="291.14285714285717" y="192" width="187" height="8" fill="#3178c6" rx="1" />
-      <rect x="478.14285714285717" y="192" width="106.85714285714285" height="8" fill="#e34c26" rx="1" />
-      <rect x="585" y="192" width="80.14285714285714" height="8" fill="#f1e05a" rx="1" />
-      <rect x="665.1428571428571" y="192" width="26.71428571428571" height="8" fill="#178600" rx="1" />
-      <rect x="691.8571428571428" y="192" width="26.71428571428571" height="8" fill="#b07219" rx="1" />
-      <rect x="718.5714285714284" y="192" width="26.71428571428571" height="8" fill="#555555" rx="1" />
-      <rect x="745.2857142857141" y="192" width="26.71428571428571" height="8" fill="#000080" rx="1" />
+      <rect x="24" y="192" width="257.9310344827586" height="8" fill="#00ADD8" rx="1" />
+      <rect x="281.9310344827586" y="192" width="206.34482758620686" height="8" fill="#3178c6" rx="1" />
+      <rect x="488.27586206896547" y="192" width="103.17241379310343" height="8" fill="#e34c26" rx="1" />
+      <rect x="591.4482758620688" y="192" width="77.37931034482757" height="8" fill="#f1e05a" rx="1" />
+      <rect x="668.8275862068964" y="192" width="25.793103448275858" height="8" fill="#178600" rx="1" />
+      <rect x="694.6206896551722" y="192" width="25.793103448275858" height="8" fill="#b07219" rx="1" />
+      <rect x="720.413793103448" y="192" width="25.793103448275858" height="8" fill="#555555" rx="1" />
+      <rect x="746.2068965517238" y="192" width="25.793103448275858" height="8" fill="#000080" rx="1" />
       <circle class="lang-dot" cx="40" cy="217" fill="#00ADD8" />
       <text class="lang-label" x="50" y="220">
-        Go 36%
+        Go 34%
       </text>
       <circle class="lang-dot" cx="200" cy="217" fill="#3178c6" />
       <text class="lang-label" x="210" y="220">
-        TypeScript 25%
+        TypeScript 28%
       </text>
       <circle class="lang-dot" cx="360" cy="217" fill="#e34c26" />
       <text class="lang-label" x="370" y="220">
@@ -109,23 +109,23 @@
       </text>
       <circle class="lang-dot" cx="520" cy="217" fill="#f1e05a" />
       <text class="lang-label" x="530" y="220">
-        JavaScript 11%
+        JavaScript 10%
       </text>
       <circle class="lang-dot" cx="680" cy="217" fill="#178600" />
       <text class="lang-label" x="690" y="220">
-        C# 4%
+        C# 3%
       </text>
       <circle class="lang-dot" cx="40" cy="237" fill="#b07219" />
       <text class="lang-label" x="50" y="240">
-        Java 4%
+        Java 3%
       </text>
       <circle class="lang-dot" cx="200" cy="237" fill="#555555" />
       <text class="lang-label" x="210" y="240">
-        C 4%
+        C 3%
       </text>
       <circle class="lang-dot" cx="360" cy="237" fill="#000080" />
       <text class="lang-label" x="370" y="240">
-        Lua 4%
+        Lua 3%
       </text>
 
   <text class="subtitle" x="24" y="266" style="fill: #e6edf3;">Issues &amp; pull requests</text>
