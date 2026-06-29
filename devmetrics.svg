@@ -39,7 +39,7 @@
   />
 
   <text class="title" x="80" y="40">Luka Vukanović</text>
-  <text class="subtitle" x="80" y="62">github: vukan322 · bitbucket: vukan322</text>
+  <text class="subtitle" x="80" y="62">github: vukan322 · bitbucket: vukan322 · gitlab: vukan322</text>
 
   <rect class="stat-card" x="24"  y="96" width="140" height="44" />
   <text class="stat-label" x="94" y="112" text-anchor="middle">Repos</text>
@@ -87,7 +87,7 @@
     <tspan class="stat-value" style="font-size: 13px; font-weight:600;">76</tspan>
     <tspan class="stat-label"> commits this week</tspan>
   </text>
-      <rect x="24" y="192" width="249.3333333333333" height="8" fill="#00ADD8" rx="1" />
+      <rect x="24" y="192" width="249.33333333333323" height="8" fill="#00ADD8" rx="1" />
       <rect x="273.33333333333326" y="192" width="224.4" height="8" fill="#3178c6" rx="1" />
       <rect x="497.73333333333323" y="192" width="99.73333333333333" height="8" fill="#e34c26" rx="1" />
       <rect x="597.4666666666666" y="192" width="74.8" height="8" fill="#f1e05a" rx="1" />
