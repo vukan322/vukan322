@@ -44,7 +44,7 @@
   <rect class="stat-card" x="24"  y="96" width="140" height="44" />
   <text class="stat-label" x="94" y="112" text-anchor="middle">Repos</text>
   <text class="stat-value" x="94" y="130" text-anchor="middle">
-    10 pub · 29 priv
+    10 pub · 5 priv
   </text>
 
   <rect class="stat-card" x="179" y="96" width="108" height="44" />
@@ -57,7 +57,7 @@
 
   <rect class="stat-card" x="425" y="96" width="108" height="44" />
   <text class="stat-label" x="479" y="112" text-anchor="middle">Contributed</text>
-  <text class="stat-value" x="479" y="130" text-anchor="middle">1</text>
+  <text class="stat-value" x="479" y="130" text-anchor="middle">0</text>
 
   <rect class="stat-card" x="548" y="96" width="108" height="44" />
   <text class="stat-label" x="602" y="112" text-anchor="middle">Joined</text>
@@ -65,7 +65,7 @@
 
   <rect class="stat-card" x="671" y="96" width="108" height="44" />
   <text class="stat-label" x="725" y="112" text-anchor="middle">Languages</text>
-  <text class="stat-value" x="725" y="130" text-anchor="middle">8</text>
+  <text class="stat-value" x="725" y="130" text-anchor="middle">4</text>
 
   <text class="subtitle" x="24" y="174" style="fill: #e6edf3;">Most used languages</text>  
     <g transform="translate(622, 16.5) scale(1.3)">
@@ -87,59 +87,28 @@
     <tspan class="stat-value" style="font-size: 13px; font-weight:600;">9</tspan>
     <tspan class="stat-label"> commits this week</tspan>
   </text>
-      <rect x="24" y="192" width="241.29032258064515" height="8" fill="#3178c6" rx="1" />
-      <rect x="265.2903225806451" y="192" width="241.29032258064515" height="8" fill="#00ADD8" rx="1" />
-      <rect x="506.58064516129025" y="192" width="96.51612903225806" height="8" fill="#e34c26" rx="1" />
-      <rect x="603.0967741935483" y="192" width="72.38709677419352" height="8" fill="#f1e05a" rx="1" />
-      <rect x="675.4838709677418" y="192" width="24.129032258064516" height="8" fill="#000080" rx="1" />
-      <rect x="699.6129032258063" y="192" width="24.129032258064516" height="8" fill="#178600" rx="1" />
-      <rect x="723.7419354838709" y="192" width="24.129032258064516" height="8" fill="#b07219" rx="1" />
-      <rect x="747.8709677419354" y="192" width="24.129032258064516" height="8" fill="#555555" rx="1" />
-      <circle class="lang-dot" cx="40" cy="217" fill="#3178c6" />
+      <rect x="24" y="192" width="467.5" height="8" fill="#00ADD8" rx="1" />
+      <rect x="491.5" y="192" width="93.5" height="8" fill="#e34c26" rx="1" />
+      <rect x="585" y="192" width="93.5" height="8" fill="#3178c6" rx="1" />
+      <rect x="678.5" y="192" width="93.5" height="8" fill="#000080" rx="1" />
+      <circle class="lang-dot" cx="40" cy="217" fill="#00ADD8" />
       <text class="lang-label" x="50" y="220">
-        TypeScript 32%
+        Go 62%
       </text>
-      <circle class="lang-dot" cx="200" cy="217" fill="#00ADD8" />
+      <circle class="lang-dot" cx="200" cy="217" fill="#e34c26" />
       <text class="lang-label" x="210" y="220">
-        Go 32%
+        HTML 12%
       </text>
-      <circle class="lang-dot" cx="360" cy="217" fill="#e34c26" />
+      <circle class="lang-dot" cx="360" cy="217" fill="#3178c6" />
       <text class="lang-label" x="370" y="220">
-        HTML 13%
+        TypeScript 12%
       </text>
-      <circle class="lang-dot" cx="520" cy="217" fill="#f1e05a" />
+      <circle class="lang-dot" cx="520" cy="217" fill="#000080" />
       <text class="lang-label" x="530" y="220">
-        JavaScript 10%
-      </text>
-      <circle class="lang-dot" cx="680" cy="217" fill="#000080" />
-      <text class="lang-label" x="690" y="220">
-        Lua 3%
-      </text>
-      <circle class="lang-dot" cx="40" cy="237" fill="#178600" />
-      <text class="lang-label" x="50" y="240">
-        C# 3%
-      </text>
-      <circle class="lang-dot" cx="200" cy="237" fill="#b07219" />
-      <text class="lang-label" x="210" y="240">
-        Java 3%
-      </text>
-      <circle class="lang-dot" cx="360" cy="237" fill="#555555" />
-      <text class="lang-label" x="370" y="240">
-        C 3%
+        Lua 12%
       </text>
 
-  <text class="subtitle" x="24" y="266" style="fill: #e6edf3;">Issues &amp; pull requests</text>
-    <text class="stat-label" x="24" y="292">
-      Issues ( 52 open · 50 closed )
-    </text>
-    <rect x="24" y="300" width="381.3333333333333" height="8" rx="1" fill="#238636" />
-    <rect x="405.3333333333333" y="300" width="366.66666666666663" height="8" rx="1" fill="#da3633" />
-    <text class="stat-label" x="24" y="334">
-      Pull requests ( 0 open · 189 merged · 6 closed )
-    </text>
-    <rect x="24" y="342" width="0" height="8" rx="1" fill="#238636" />
-    <rect x="24" y="342" width="724.9846153846154" height="8" rx="1" fill="#8957e5" />
-    <rect x="748.9846153846154" y="342" width="23.015384615384615" height="8" rx="1" fill="#da3633" />
+  <text class="subtitle" x="24" y="246" style="fill: #e6edf3;">Issues &amp; pull requests</text>
 
   <text class="footer"
       x="400"
