@@ -84,7 +84,7 @@
   </text>
 
   <text class="stat-label" x="648" y="77" text-anchor="start">
-    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">27</tspan>
+    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">28</tspan>
     <tspan class="stat-label"> commits this week</tspan>
   </text>
       <rect x="24" y="192" width="233.75" height="8" fill="#3178c6" rx="1" />
@@ -130,10 +130,10 @@
 
   <text class="subtitle" x="24" y="266" style="fill: #e6edf3;">Issues &amp; pull requests</text>
     <text class="stat-label" x="24" y="292">
-      Issues ( 53 open · 50 closed )
+      Issues ( 52 open · 51 closed )
     </text>
-    <rect x="24" y="300" width="384.8932038834951" height="8" rx="1" fill="#238636" />
-    <rect x="408.8932038834951" y="300" width="363.1067961165049" height="8" rx="1" fill="#da3633" />
+    <rect x="24" y="300" width="377.63106796116506" height="8" rx="1" fill="#238636" />
+    <rect x="401.63106796116506" y="300" width="370.36893203883494" height="8" rx="1" fill="#da3633" />
     <text class="stat-label" x="24" y="334">
       Pull requests ( 0 open · 195 merged · 7 closed )
     </text>
