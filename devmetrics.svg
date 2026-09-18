@@ -49,7 +49,7 @@
 
   <rect class="stat-card" x="179" y="96" width="108" height="44" />
   <text class="stat-label" x="233" y="112" text-anchor="middle">Stars</text>
-  <text class="stat-value" x="233" y="130" text-anchor="middle">49</text>
+  <text class="stat-value" x="233" y="130" text-anchor="middle">50</text>
 
   <rect class="stat-card" x="302" y="96" width="108" height="44" />
   <text class="stat-label" x="356" y="112" text-anchor="middle">Followers</text>
@@ -74,7 +74,7 @@
     </g>
 
   <text class="stat-label" x="648" y="33" text-anchor="start">
-    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">2</tspan>
+    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">3</tspan>
     <tspan class="stat-label"> contribution streak</tspan>
   </text>
 
@@ -84,7 +84,7 @@
   </text>
 
   <text class="stat-label" x="648" y="77" text-anchor="start">
-    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">13</tspan>
+    <tspan class="stat-value" style="font-size: 13px; font-weight:600;">14</tspan>
     <tspan class="stat-label"> commits this week</tspan>
   </text>
       <rect x="24" y="192" width="241.99999999999997" height="8" fill="#00ADD8" rx="1" />
