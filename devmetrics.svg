@@ -39,12 +39,12 @@
   />
 
   <text class="title" x="80" y="40">Luka Vukanović</text>
-  <text class="subtitle" x="80" y="62">github: vukan322 · bitbucket: vukan322 · gitlab: vukan322</text>
+  <text class="subtitle" x="80" y="62">github: vukan322</text>
 
   <rect class="stat-card" x="24"  y="96" width="140" height="44" />
   <text class="stat-label" x="94" y="112" text-anchor="middle">Repos</text>
   <text class="stat-value" x="94" y="130" text-anchor="middle">
-    11 pub · 32 priv
+    11 pub · 27 priv
   </text>
 
   <rect class="stat-card" x="179" y="96" width="108" height="44" />
@@ -83,15 +83,15 @@
     <tspan class="stat-value" style="font-size: 13px; font-weight:600;">9</tspan>
     <tspan class="stat-label"> commits this week</tspan>
   </text>
-      <rect x="24" y="192" width="235.08571428571423" height="8" fill="#00ADD8" rx="1" />
-      <rect x="259.08571428571423" y="192" width="235.08571428571423" height="8" fill="#3178c6" rx="1" />
-      <rect x="494.17142857142846" y="192" width="85.48571428571427" height="8" fill="#f1e05a" rx="1" />
-      <rect x="579.6571428571427" y="192" width="85.48571428571427" height="8" fill="#e34c26" rx="1" />
-      <rect x="665.142857142857" y="192" width="21.371428571428567" height="8" fill="#178600" rx="1" />
-      <rect x="686.5142857142855" y="192" width="21.371428571428567" height="8" fill="#555555" rx="1" />
-      <rect x="707.8857142857141" y="192" width="21.371428571428567" height="8" fill="#A97BFF" rx="1" />
-      <rect x="729.2571428571428" y="192" width="21.371428571428567" height="8" fill="#000080" rx="1" />
-      <rect x="750.6285714285714" y="192" width="21.371428571428567" height="8" fill="#b07219" rx="1" />
+      <rect x="24" y="192" width="235.0857142857143" height="8" fill="#00ADD8" rx="1" />
+      <rect x="259.0857142857143" y="192" width="235.0857142857143" height="8" fill="#3178c6" rx="1" />
+      <rect x="494.1714285714286" y="192" width="85.48571428571428" height="8" fill="#f1e05a" rx="1" />
+      <rect x="579.6571428571428" y="192" width="85.48571428571428" height="8" fill="#e34c26" rx="1" />
+      <rect x="665.1428571428571" y="192" width="21.37142857142857" height="8" fill="#178600" rx="1" />
+      <rect x="686.5142857142857" y="192" width="21.37142857142857" height="8" fill="#b07219" rx="1" />
+      <rect x="707.8857142857144" y="192" width="21.37142857142857" height="8" fill="#A97BFF" rx="1" />
+      <rect x="729.257142857143" y="192" width="21.37142857142857" height="8" fill="#555555" rx="1" />
+      <rect x="750.6285714285716" y="192" width="21.37142857142857" height="8" fill="#000080" rx="1" />
       <circle class="lang-dot" cx="40" cy="217" fill="#00ADD8" />
       <text class="lang-label" x="50" y="220">
         Go 31%
@@ -112,21 +112,21 @@
       <text class="lang-label" x="690" y="220">
         C# 3%
       </text>
-      <circle class="lang-dot" cx="40" cy="237" fill="#555555" />
+      <circle class="lang-dot" cx="40" cy="237" fill="#b07219" />
       <text class="lang-label" x="50" y="240">
-        C 3%
+        Java 3%
       </text>
       <circle class="lang-dot" cx="200" cy="237" fill="#A97BFF" />
       <text class="lang-label" x="210" y="240">
         Kotlin 3%
       </text>
-      <circle class="lang-dot" cx="360" cy="237" fill="#000080" />
+      <circle class="lang-dot" cx="360" cy="237" fill="#555555" />
       <text class="lang-label" x="370" y="240">
-        Lua 3%
+        C 3%
       </text>
-      <circle class="lang-dot" cx="520" cy="237" fill="#b07219" />
+      <circle class="lang-dot" cx="520" cy="237" fill="#000080" />
       <text class="lang-label" x="530" y="240">
-        Java 3%
+        Lua 3%
       </text>
 
   <text class="subtitle" x="24" y="266" style="fill: #e6edf3;">Issues &amp; pull requests</text>
